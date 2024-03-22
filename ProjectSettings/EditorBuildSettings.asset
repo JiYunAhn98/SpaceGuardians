@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/1.Scenes/Start.unity
+    guid: 955328f0455117443b9c0a2a371b8d4d
+  - enabled: 1
+    path: Assets/1.Scenes/Lobby/Lobby.unity
+    guid: a57b17471d44a624f800eeb958b27e08
+  - enabled: 1
+    path: Assets/1.Scenes/Lobby/Stadium.unity
+    guid: b9efa230b07f7fb4cbbfe38cc5176698
+  - enabled: 1
+    path: Assets/1.Scenes/Lobby/Galaxy.unity
+    guid: c451356fb35ee2143b41217ecff2e183
+  - enabled: 1
+    path: Assets/1.Scenes/Lobby/StadiumResult.unity
+    guid: a6538e83d7043ad4bba1329c89d0b437
+  - enabled: 1
+    path: Assets/1.Scenes/Lobby/SpaceShip.unity
+    guid: 37b6ec2a745222246a24e34ea26f6a5b
+  - enabled: 1
+    path: Assets/1.Scenes/Stage/LaserRoom.unity
+    guid: 4daf4520787fdf0489eae9e91faa637b
+  - enabled: 1
+    path: Assets/1.Scenes/Stage/JumpClimb.unity
+    guid: 808a8c3ae38bffc43bbec26d03c94ed6
+  - enabled: 1
+    path: Assets/1.Scenes/Stage/NeverStop.unity
+    guid: 32bf906aec0738c4c9808b6aa8b08ff6
+  - enabled: 1
+    path: Assets/1.Scenes/Stage/SprintRace.unity
+    guid: eaa5059e7b7dd0a448ce1fd7d67ac210
+  - enabled: 1
+    path: Assets/1.Scenes/Stage/EscapeRoom.unity
+    guid: a0866ac845d34fd4782c721e0e346f7d
+  - enabled: 1
+    path: Assets/1.Scenes/Stage/CleanRoom.unity
+    guid: 78fb1ac78d7bbf24b88422aacf704965
+  m_configObjects: {}
